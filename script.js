@@ -16,7 +16,7 @@ function generatePassword() {
   }
 
   // Confirm password length 
-  alert('Thank you, your password will contain ' + passLength + 'characters');
+  alert('Thank you, your password will contain ' + passLength + ' characters long.');
 
 
   var charTypes = [];

@@ -5,6 +5,6 @@ In this challenge we were asked to add to the code from the password generator. 
 I look on the internet for some examples and found that the easiest way for me to do this would be to put everything in one huge function. first the user chooses the length. then the function for getPassword goes through all the criteria we need to meet and puts it in an array. after that I used some math to generate the alphabet, numbers and symbols from the ascii table and then output a random choice. I really enjoyed this code!
 
 # link to website
-
+https://mac-codes.github.io/Password-Generator/
 # screenshot
 <img width="1436" alt="Screen Shot 2022-10-03 at 5 05 58 PM" src="https://user-images.githubusercontent.com/102085405/193697537-4bb5bcc9-c74d-4076-b7c3-6afccde2b860.png">
